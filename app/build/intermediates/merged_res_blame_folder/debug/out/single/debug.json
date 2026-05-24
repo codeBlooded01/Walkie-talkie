@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "com.talkie.app-merged_res-51:/font_league_spartan_light.ttf.flat",
+        "source": "com.talkie.app-main-53:/font/league_spartan_light.ttf"
+    },
+    {
+        "merged": "com.talkie.app-merged_res-51:/font_montserrat_bold.ttf.flat",
+        "source": "com.talkie.app-main-53:/font/montserrat_bold.ttf"
+    },
+    {
+        "merged": "com.talkie.app-merged_res-51:/font_konkhmer_sleokchher_regular.ttf.flat",
+        "source": "com.talkie.app-main-53:/font/konkhmer_sleokchher_regular.ttf"
+    },
+    {
+        "merged": "com.talkie.app-merged_res-51:/layout_notification_heads_up.xml.flat",
+        "source": "com.talkie.app-main-53:/layout/notification_heads_up.xml"
+    },
+    {
+        "merged": "com.talkie.app-merged_res-51:/drawable_notification_bg.xml.flat",
+        "source": "com.talkie.app-main-53:/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "com.talkie.app-merged_res-51:/font_koulen_regular.ttf.flat",
+        "source": "com.talkie.app-main-53:/font/koulen_regular.ttf"
+    },
+    {
+        "merged": "com.talkie.app-merged_res-51:/font_league_spartan_bold.ttf.flat",
+        "source": "com.talkie.app-main-53:/font/league_spartan_bold.ttf"
+    },
+    {
+        "merged": "com.talkie.app-merged_res-51:/font_league_spartan_regular.ttf.flat",
+        "source": "com.talkie.app-main-53:/font/league_spartan_regular.ttf"
+    },
+    {
+        "merged": "com.talkie.app-merged_res-51:/drawable_ic_walkie_talkie.xml.flat",
+        "source": "com.talkie.app-main-53:/drawable/ic_walkie_talkie.xml"
+    }
+]

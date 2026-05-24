@@ -1,0 +1,15 @@
+R_DEF: Internal format may change without notice
+local
+drawable ic_walkie_talkie
+drawable notification_bg
+font konkhmer_sleokchher_regular
+font koulen_regular
+font league_spartan_bold
+font league_spartan_light
+font league_spartan_regular
+font montserrat_bold
+id notification_icon
+id notification_subtitle
+id notification_title
+layout notification_heads_up
+style Theme.Talkie

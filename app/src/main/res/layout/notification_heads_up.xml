@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingStart="16dp"
+    android:paddingEnd="16dp"
+    android:paddingTop="8dp"
+    android:paddingBottom="8dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="64dp"
+        android:orientation="horizontal"
+        android:background="@drawable/notification_bg"
+        android:gravity="center_vertical"
+        android:paddingStart="24dp"
+        android:paddingEnd="24dp"
+        android:elevation="8dp">
+
+        <ImageView
+            android:id="@+id/notification_icon"
+            android:layout_width="20dp"
+            android:layout_height="30dp"
+            android:src="@drawable/ic_walkie_talkie" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_marginStart="16dp">
+
+            <TextView
+                android:id="@+id/notification_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#0A1B4D"
+                android:textSize="16sp"
+                android:textStyle="bold"
+                android:fontFamily="@font/montserrat_bold" />
+
+            <TextView
+                android:id="@+id/notification_subtitle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#5D6B82"
+                android:textSize="13sp"
+                android:fontFamily="@font/league_spartan_regular" />
+        </LinearLayout>
+    </LinearLayout>
+</FrameLayout>
